@@ -22,4 +22,4 @@ console.log('Updated Payroll:');
 updatedEmployees.forEach((employee) => {
   console.log(`${employee.name}: $${employee.salary}`);
 });
-.
+
